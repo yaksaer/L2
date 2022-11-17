@@ -1,0 +1,5 @@
+# github.com/go-playground/assert v1.2.1
+## explicit
+# github.com/go-playground/assert/v2 v2.2.0
+## explicit; go 1.13
+github.com/go-playground/assert/v2
